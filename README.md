@@ -1,6 +1,6 @@
 # Clock 
 
-Simple project using pure js
+Simple project using pure js to make the clock work
 
 ## About the Dev
 
